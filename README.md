@@ -1,4 +1,4 @@
 # alx-pre_course
-WELCOME TO alx-pre_course.
-This is a trial repository for my software engineering programme that am practising and learning necessary skils at alx
-This repository will be updated with the preojects i will be undertaking'
+This is a test repository to test our basic knowledge in creation of readme.
+# Description
+In this project we asked to create a README.md file at the root of the repository
